@@ -1,0 +1,934 @@
+﻿BEAUTY BEA COLLECTION — PREMIUM E-COMMERCE WEBSITE REDESIGN & FUNCTIONAL IMPLEMENTATION
+
+
+1. YOUR ROLE
+
+
+Act as a world-class UI/UX designer, senior frontend engineer, e-commerce architect and conversion-focused digital product designer with over 35 years of combined professional design and development experience.
+
+
+Your task is to transform the existing Beauty Bea Collection website into a premium, fully functional, responsive Nigerian fashion and beauty e-commerce experience.
+
+
+The attached UI reference image is your PRIMARY visual design direction.
+
+
+Study the image carefully. Reproduce its visual quality, layout hierarchy, elegant typography, glass-inspired surfaces, product presentation, spacing, proportions and responsive design.
+
+
+IMPORTANT: This is an improvement and restructuring of the existing project, not permission to destroy working functionality.
+
+
+- Inspect the existing project before making changes.
+- Preserve existing working code, integrations, assets and useful functionality.
+- Reuse the real product photographs already uploaded to this project.
+- Do not replace real product photographs with AI-generated images, illustrations, drawings, emojis or generic placeholders.
+- Do not unnecessarily recreate the project from scratch.
+- Do not create nonfunctional buttons or decorative controls that look interactive.
+- Build the actual website, not a static visual mockup.
+
+
+2. BRAND IDENTITY AND VISUAL DIRECTION
+
+
+Brand name: Beauty Bea Collection
+
+
+Brand personality:
+
+
+- Feminine
+- Elegant
+- Luxurious
+- Modern
+- Confident
+- Refined
+- Welcoming
+
+
+Use the attached image as the main visual guide.
+
+
+Colour palette
+
+
+Use a sophisticated combination of:
+
+
+- Deep berry pink: #A80050
+- Rich rose: #C21865
+- Soft blush: #F8DDE8
+- Pale pink: #FFF1F6
+- Warm white: #FFFFFF
+- Deep text: #29151F
+- Muted text: #786873
+- Soft border: #F0DCE5
+
+
+Use subtle gradients where appropriate.
+
+
+Glass-inspired design
+
+
+Create a refined glass-inspired interface using:
+
+
+- Semi-transparent blush surfaces.
+- Soft backdrop blur where supported.
+- Delicate borders.
+- Gentle shadows.
+- Rounded corners.
+- Layered translucent panels.
+- Subtle highlights and reflections.
+
+
+Do not overuse glass effects. Maintain excellent contrast and readability.
+
+
+Avoid making every element look like a separate floating card. Use clear visual hierarchy and generous spacing.
+
+
+Typography
+
+
+Use an elegant editorial serif font for major headings and a clean modern sans-serif font for body text and controls.
+
+
+Suggested combination:
+
+
+- Cormorant Garamond for headings.
+- Manrope for body text and interface elements.
+
+
+The result should feel like a premium fashion boutique, not a generic online shopping template.
+
+
+3. WEBSITE STRUCTURE — FOUR SEPARATE PAGES
+
+
+Create four actual pages with working navigation:
+
+
+1. Home
+2. Shop
+3. About
+4. Contact
+
+
+The navigation must work through real routes or equivalent page navigation.
+
+
+Suggested routes:
+
+
+- "/"
+- "/shop"
+- "/about"
+- "/contact"
+
+
+The header should contain:
+
+
+- Beauty Bea Collection logo or existing brand mark.
+- Home.
+- Shop.
+- About.
+- Contact.
+- Search icon or working search control.
+- Shopping bag/cart icon with live item count.
+
+
+On mobile, use a clean, elegant hamburger menu.
+
+
+Navigation rule: Buttons must open their correct destination pages. Do not use smooth-scroll links as substitutes for page navigation.
+
+
+4. HOME PAGE
+
+
+A. Hero section
+
+
+Create a visually striking premium hero inspired by the first panel of the reference image.
+
+
+Main headline:
+
+
+Elegance in Every Detail
+
+
+Supporting text:
+
+
+"Discover timeless fashion and beauty with Beauty Bea Collection."
+
+
+Primary CTA: Shop the Collection
+
+
+This button must open the Shop page.
+
+
+Use a beautiful feminine fashion editorial photograph or an existing suitable brand image. Do not use product illustrations.
+
+
+Use a soft blush-pink background with a refined image composition. The hero must look excellent on mobile and desktop.
+
+
+Do not include:
+
+
+- "Lagos Boutique Collection"
+- "2026 Edition"
+- Any unnecessary location or edition badge.
+
+
+B. What We Do
+
+
+Create a clean introductory section explaining the business.
+
+
+Suggested copy:
+
+
+"We bring elegance, confidence and style together through carefully selected fashion and beauty essentials."
+
+
+C. Four category cards
+
+
+Display four premium category cards:
+
+
+1. Bags
+2. Shoes
+3. Jewelry
+4. Perfumes
+
+
+Each card must have:
+
+
+- A real relevant product photograph from the uploaded assets.
+- Category name.
+- One or two featured products.
+- A clear CTA.
+
+
+Examples:
+
+
+- See All Bags
+- See All Shoes
+- See All Jewelry
+- See All Perfumes
+
+
+Each CTA must open the Shop page with the relevant category already selected.
+
+
+D. Product availability statement
+
+
+Include this exact message:
+
+
+"These are some of our products. We have many more available. Contact us for the full collection."
+
+
+E. Trust and service section
+
+
+Show a refined row of service highlights:
+
+
+- Premium Quality
+- Fast Delivery
+- Secure Payments
+- Excellent Customer Support
+
+
+Use tasteful icons only for these service highlights, never as product photographs.
+
+
+F. Footer
+
+
+Include:
+
+
+- Brand name.
+- Short brand description.
+- Quick links.
+- Shop categories.
+- Contact information.
+- WhatsApp link.
+- Social media links only where actual URLs are available.
+- Copyright information.
+
+
+5. SHOP PAGE
+
+
+Create a proper shopping catalogue.
+
+
+A. Shop heading
+
+
+Heading: Our Collection
+
+
+Supporting text:
+
+
+"Explore carefully selected fashion and beauty essentials."
+
+
+B. Category filters
+
+
+Provide working category tabs:
+
+
+- All
+- Bags
+- Shoes
+- Jewelry
+- Perfumes
+
+
+When a category is selected, update the product grid immediately.
+
+
+C. Product catalogue
+
+
+Display the following quantities:
+
+
+Category| Number of products
+Bags| 4
+Shoes| 4
+Perfumes| 3
+Jewelry| 3
+
+
+Total: 14 products.
+
+
+Use the actual uploaded photographs already available in the project. Match each image to its correct product.
+
+
+Do not reuse one photograph repeatedly to fill the grid. Do not invent product photographs.
+
+
+Each product card must include:
+
+
+- Real product photograph.
+- Product name.
+- Price in Nigerian naira (₦).
+- Available colour options.
+- Clickable colour swatches.
+- Order Now button.
+
+
+Use actual product names and prices already present in the existing project or product data. If a price is missing, make it editable rather than inventing a price.
+
+
+D. Product layout
+
+
+Desktop:
+
+
+- Four columns where screen width permits.
+- Consistent image proportions.
+- Balanced card spacing.
+
+
+Tablet:
+
+
+- Two or three columns depending on available width.
+
+
+Mobile:
+
+
+- Exactly two product cards per row.
+- Readable product names and prices.
+- Properly sized swatches and buttons.
+- No horizontal overflow.
+
+
+E. Colour selection
+
+
+Use small, attractive, clickable colour swatches.
+
+
+Possible colours include:
+
+
+- Black
+- Brown
+- Red
+- Nude
+- Gold
+- White
+- Pink
+
+
+Only display colours genuinely available for each product.
+
+
+When a customer selects a colour:
+
+
+- Visually highlight the selected swatch.
+- Update the selected colour in the product state.
+- Carry that colour into the cart and order form.
+- Do not allow the selected colour to disappear when navigating to checkout.
+
+
+F. Product ordering
+
+
+Every Order Now button must work.
+
+
+When clicked:
+
+
+1. Identify the selected product.
+2. Carry its name, price, category and selected colour.
+3. Open the Contact/order page.
+4. Prepopulate the corresponding product fields.
+
+
+At the end of each category, include:
+
+
+"More designs available. Contact us."
+
+
+This should link to the Contact page or open WhatsApp.
+
+
+6. SHOPPING CART
+
+
+Build a functional shopping cart.
+
+
+The cart must support:
+
+
+- Adding products.
+- Removing products.
+- Increasing quantity.
+- Decreasing quantity.
+- Displaying selected colours.
+- Displaying individual prices.
+- Calculating subtotal.
+- Showing total number of items.
+- Preserving cart contents during navigation.
+
+
+The cart icon in the header must display the live number of items.
+
+
+Create a clean slide-out cart drawer similar to the reference image.
+
+
+The drawer should show:
+
+
+- Product image.
+- Product name.
+- Selected colour.
+- Unit price.
+- Quantity controls.
+- Remove button.
+- Subtotal.
+- Checkout button.
+
+
+The Checkout button must open the Contact/order page and transfer all cart items into the order form.
+
+
+Do not build a fake cart that resets whenever the user changes pages.
+
+
+7. ABOUT PAGE
+
+
+Create an elegant About page.
+
+
+A. Who We Are
+
+
+Explain that Beauty Bea Collection is a fashion and beauty retail brand serving customers with carefully selected products.
+
+
+B. What We Do
+
+
+Explain the business's product categories:
+
+
+- Handbags.
+- Shoes.
+- Jewelry.
+- Perfumes.
+
+
+Emphasise style, quality, confidence and customer satisfaction without making unsupported claims.
+
+
+C. CEO section
+
+
+Create a premium CEO profile section using the actual CEO photograph already uploaded to the project.
+
+
+Do not replace the uploaded photograph with an AI-generated person.
+
+
+Use:
+
+
+- Professional image presentation.
+- Elegant background.
+- Clear name and title.
+- Short business message.
+
+
+Keep the section feminine, professional and visually balanced.
+
+
+8. CONTACT PAGE AND ORDER FORM
+
+
+This page is extremely important.
+
+
+Build a complete functional order form with a clean, premium layout.
+
+
+It should resemble the order-form area shown in the attached reference image, but improve its spacing, readability and mobile responsiveness.
+
+
+A. Customer information
+
+
+Required fields:
+
+
+1. Full Name
+2. Phone Number
+3. Product Type
+4. Product Name
+5. Colour
+6. Quantity
+7. Quality/Grade
+8. Additional Notes
+
+
+Product Type dropdown:
+
+
+- Bags
+- Shoes
+- Jewelry
+- Perfumes
+
+
+Product Name should update according to the selected product type.
+
+
+Colour must use clickable swatches based on the actual available colours for the selected product.
+
+
+Quantity must be a number greater than zero.
+
+
+Quality/Grade:
+
+
+- Standard
+- Premium
+
+
+B. Shoe size
+
+
+Only show the Shoe Size field when the selected product is in the Shoes category.
+
+
+Hide this field for bags, jewelry and perfumes.
+
+
+C. Cart-to-order integration
+
+
+If a customer arrives through the cart checkout:
+
+
+- Carry all cart items into the order form.
+- Preserve each product's selected colour and quantity.
+- Display each product and price clearly.
+- Calculate the combined subtotal correctly.
+
+
+If a customer arrives through an individual Order Now button:
+
+
+- Preselect that product.
+- Preselect the chosen colour.
+- Allow the customer to adjust quantity.
+
+
+9. DELIVERY METHOD
+
+
+The customer must choose one of two delivery methods.
+
+
+Option 1: Waybill Delivery
+
+
+When selected, display:
+
+
+- Destination State.
+- Destination Town.
+- Full Delivery Address or Waybill Park.
+- Nearest Bus Stop.
+
+
+The customer must provide the necessary destination information.
+
+
+Waybill fee calculation
+
+
+Create an editable Nigerian state-based waybill fee configuration.
+
+
+The fee should update automatically when the customer selects a destination state.
+
+
+Use configurable estimated fees, not claims of guaranteed courier prices. Actual charges can vary by transport company, destination and parcel size.
+
+
+Provide a simple admin-editable configuration so the business owner can change the rates without editing the entire application.
+
+
+Do not hard-code one fee for every Nigerian state.
+
+
+Option 2: I Will Pick Up
+
+
+When selected, display:
+
+
+- A date picker.
+- A time selector.
+- The business pickup address.
+
+
+Ask:
+
+
+"When do you intend to come?"
+
+
+Allow customers to select only times within the business opening hours:
+
+
+6:30 AM – 5:00 PM, Africa/Lagos time.
+
+
+Do not allow appointments outside these hours.
+
+
+Use an editable office-address setting. Do not invent an office address.
+
+
+Hide the waybill destination fields when pickup is selected.
+
+
+10. ORDER SUMMARY AND TOTAL
+
+
+Create a live order summary.
+
+
+Show:
+
+
+- Products.
+- Selected colours.
+- Quantities.
+- Individual prices.
+- Subtotal.
+- Waybill fee, when applicable.
+- Final total.
+
+
+Calculation:
+
+
+Subtotal = Sum of all product prices × their quantities.
+
+
+Final Total = Subtotal + Waybill Fee.
+
+
+For pickup orders, waybill fee must be ₦0.
+
+
+Update all calculations immediately when a customer changes quantity, product, delivery method or destination state.
+
+
+Do not display a misleading total.
+
+
+11. PAYMENT INFORMATION
+
+
+Only reveal payment details after the customer has completed all required order fields and the form has passed validation.
+
+
+Payment method: PalmPay
+
+
+Account name: Chukwudebe Ifeanyi
+
+
+Account number: [ACCOUNT NUMBER — KEEP THIS AS AN EDITABLE PLACEHOLDER]
+
+
+Include a working Copy Account Number button.
+
+
+Important:
+
+
+- Never invent an account number.
+- Never display payment details on the Home, Shop or About pages.
+- Do not show payment details before the required order information has been completed.
+- Keep payment information clearly separated from the order summary.
+
+
+12. WHATSAPP ORDER SUBMISSION
+
+
+Create a prominent button:
+
+
+Send Order on WhatsApp
+
+
+WhatsApp destination:
+
+
+https://wa.me/2349069710687
+
+
+When clicked, open WhatsApp with a properly URL-encoded message containing all relevant order information.
+
+
+The message must include:
+
+
+- Customer's full name.
+- Phone number.
+- Product category.
+- Product name or all selected cart products.
+- Colour.
+- Quantity.
+- Shoe size, when applicable.
+- Quality/Grade.
+- Additional notes.
+- Delivery method.
+- Destination state and town, when using waybill.
+- Delivery address or waybill park.
+- Nearest bus stop.
+- Pickup date and time, when using pickup.
+- Product subtotal.
+- Waybill fee.
+- Final total.
+
+
+Use a proper URL-encoding method. Do not truncate the order message or lose special characters.
+
+
+Validate required fields before opening WhatsApp.
+
+
+If the customer has not completed the required fields, show clear field-level error messages.
+
+
+Do not falsely tell the customer that an order has been placed merely because WhatsApp has opened. Explain that the customer should send the prepared message to complete the enquiry/order process.
+
+
+13. CONTACT DETAILS
+
+
+Use these existing business contact details:
+
+
+WhatsApp: +2349069710687
+
+
+Email: Chukwudebeifeanyi6@gmail.com
+
+
+Opening hours: 6:30 AM – 5:00 PM
+
+
+Location: Use an editable business-location field. Do not invent a street address.
+
+
+Make the phone number, email and WhatsApp contact clickable.
+
+
+14. RESPONSIVE DESIGN
+
+
+The website must be designed mobile-first.
+
+
+Pay special attention to smartphone screens.
+
+
+Requirements:
+
+
+- No horizontal scrolling.
+- No cut-off headings.
+- No overlapping buttons.
+- No stretched photographs.
+- No tiny product cards.
+- No cramped forms.
+- No unreadable text.
+- No oversized navigation.
+- No broken mobile menu.
+- No awkward image cropping.
+
+
+The mobile website should feel like a carefully designed premium shopping application.
+
+
+Use:
+
+
+- Comfortable touch targets.
+- Two-column product grids.
+- Responsive typography.
+- Properly spaced form fields.
+- A clear mobile cart experience.
+- Sticky navigation only where it improves usability.
+
+
+15. INTERACTIONS AND MICRO-ANIMATIONS
+
+
+Use restrained premium animations:
+
+
+- Smooth page transitions.
+- Subtle hover effects.
+- Gentle card elevation.
+- Button feedback.
+- Smooth cart drawer opening.
+- Clean dropdown transitions.
+- Subtle image transitions.
+
+
+Do not use excessive bouncing, spinning, flashing or distracting animations.
+
+
+The website must remain fast and usable on ordinary Nigerian mobile internet connections.
+
+
+16. FUNCTIONALITY AND QUALITY ASSURANCE
+
+
+Before considering the work complete, test the actual website.
+
+
+Test every one of these:
+
+
+1. Home navigation.
+2. Shop navigation.
+3. About navigation.
+4. Contact navigation.
+5. All four category buttons.
+6. Category filtering.
+7. Product colour selection.
+8. Product ordering.
+9. Cart addition.
+10. Cart removal.
+11. Quantity controls.
+12. Cart subtotal.
+13. Cart checkout.
+14. Product prepopulation in the order form.
+15. Shoe-size conditional field.
+16. Delivery-method selection.
+17. State-based waybill calculation.
+18. Pickup date selection.
+19. Pickup time restrictions.
+20. Live order total.
+21. Required-field validation.
+22. Payment information reveal.
+23. Copy account number.
+24. WhatsApp message generation.
+25. Mobile navigation.
+26. Mobile product layout.
+27. Footer links.
+
+
+Fix all errors discovered.
+
+
+Do not merely describe what should work. Implement and test it.
+
+
+17. FINAL DESIGN STANDARD
+
+
+The final website should look like a premium contemporary Nigerian fashion and beauty boutique.
+
+
+It should have:
+
+
+- A beautiful editorial homepage.
+- A well-organised shopping catalogue.
+- Real product photography.
+- Refined glass-inspired surfaces.
+- Elegant blush and berry-pink styling.
+- Excellent typography.
+- A functional shopping cart.
+- A complete order and delivery workflow.
+- A polished mobile experience.
+
+
+The attached image is the primary visual reference. Follow its design direction closely while improving the details needed for a real production-quality website.
+
+
+FINAL INSTRUCTION: Build the complete working website now. Do not return only a plan, design description, code sample or static mockup. Preserve the existing project and implement the actual pages, interactions, calculations, navigation and order workflow.

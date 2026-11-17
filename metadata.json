@@ -1,0 +1,6 @@
+{
+  "name": "Presh Beauty Studio",
+  "description": "Expert bridal makeup, flawless glam, gele tying, makeup lessons and luxury fashion collection in Asaba, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
